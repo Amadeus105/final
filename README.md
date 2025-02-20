@@ -1,7 +1,7 @@
 # 📸 Digital Camera Store
+Made by Aidyn Shaikenov, Salim Faizullayev.
 
 Welcome to the **Digital Camera Store** project! This is a full-stack web application that allows users to browse, add, and purchase digital cameras. The project includes a **React frontend** and a **Node.js/Express backend**, with user authentication and authorization.
-Made by Aidyn Shaikenov, Salim Faizullayev.
 ---
 
 ## 🚀 Features
